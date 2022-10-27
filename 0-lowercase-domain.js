@@ -11,7 +11,9 @@ function lowercase(inputArray)
 
     return lowercaseArray
 */
-function lowercase(){
+
+function lowercase(namesArray){
+   
 
 }
 console.log(lowercase(["String", "sUgar"]), "should be [string, sugar]");

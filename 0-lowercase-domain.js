@@ -11,3 +11,7 @@ function lowercase(inputArray)
 
     return lowercaseArray
 */
+function lowercase(){
+
+}
+console.log(lowercase(["String", "sUgar"]), "should be [string, sugar]");
